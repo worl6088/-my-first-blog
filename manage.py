@@ -2,8 +2,8 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
+print("첫번 째 commit 입니다! ")
 
-print("두번 째 commit 입니다! ")
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'untitled10.settings')
     try:
