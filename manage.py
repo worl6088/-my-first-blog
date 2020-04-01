@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+print("두번 째 commit 입니다! ")
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'untitled10.settings')
     try:
